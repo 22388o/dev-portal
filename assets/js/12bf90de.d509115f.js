@@ -1,1 +1,0 @@
-(self.webpackChunkdev_portal=self.webpackChunkdev_portal||[]).push([[726],{6987:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"tdex","name":"tdex","count":1,"permalink":"/blog/tags/tdex"}')}}]);
