@@ -4,15 +4,15 @@
         <title>TDEX Network Blog</title>
         <link>https://dev.tdex.network/blog</link>
         <description>TDEX Network Blog</description>
-        <lastBuildDate>Wed, 29 May 2019 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Hello TDEX!]]></title>
-            <link>https://dev.tdex.network/blog/hello-world</link>
-            <guid>hello-world</guid>
-            <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Welcome to this blog. This blog is created with Docusaurus 2 alpha.]]></description>
+            <title><![CDATA[Liquid Bitcoin peg-in(s) in the browser!]]></title>
+            <link>https://dev.tdex.network/blog/liquid-pegin-browser</link>
+            <guid>liquid-pegin-browser</guid>
+            <pubDate>Fri, 20 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[TL;DR]]></description>
         </item>
     </channel>
 </rss>

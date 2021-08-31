@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdev_portal=self.webpackChunkdev_portal||[]).push([[669],{1965:function(l){l.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"liquid","name":"liquid","count":1,"permalink":"/blog/tags/liquid"}')}}]);
