@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dev.tdex.network/blog</id>
     <title>TDEX Network Blog</title>
-    <updated>2021-08-20T00:00:00.000Z</updated>
+    <updated>2021-09-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dev.tdex.network/blog"/>
     <subtitle>TDEX Network Blog</subtitle>
     <icon>https://dev.tdex.network/img/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Deploy a TDEX Daemon to AWS with Terraform]]></title>
+        <id>tdex-terraform-deploy</id>
+        <link href="https://dev.tdex.network/blog/tdex-terraform-deploy"/>
+        <updated>2021-09-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Configure and run TDex box easily using Terraform automation.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Liquid Bitcoin peg-in(s) in the browser!]]></title>
         <id>liquid-pegin-browser</id>
