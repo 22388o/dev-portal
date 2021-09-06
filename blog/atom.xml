@@ -14,11 +14,4 @@
         <updated>2021-09-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Configure and run TDex box easily using Terraform automation.]]></summary>
     </entry>
-    <entry>
-        <title type="html"><![CDATA[Liquid Bitcoin peg-in(s) in the browser!]]></title>
-        <id>liquid-pegin-browser</id>
-        <link href="https://dev.tdex.network/blog/liquid-pegin-browser"/>
-        <updated>2021-08-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[TL;DR]]></summary>
-    </entry>
 </feed>
