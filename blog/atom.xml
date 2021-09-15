@@ -12,7 +12,7 @@
         <id>tdex-terraform-deploy-aws</id>
         <link href="https://dev.tdex.network/blog/tdex-terraform-deploy-aws"/>
         <updated>2021-09-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Configure and run TDex box easily using Terraform automation.]]></summary>
+        <summary type="html"><![CDATA[Configure and run the TDEX box easily using Terraform automation.]]></summary>
         <author>
             <name>Alexander K</name>
         </author>
